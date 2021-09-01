@@ -1,17 +1,5 @@
 # Simplefolio
 
-## A minimal portfolio template for Developers!
-
-## Need of portfolio for a developer ☝️
-
-- Professional way To showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
-
-## Getting Started 🚀
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites 📋
 From your command line, first clone Simplefolio:
 
@@ -244,5 +232,3 @@ $secondary-color: #00cdac;
 ```
 
 **NOTE**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
-
--
