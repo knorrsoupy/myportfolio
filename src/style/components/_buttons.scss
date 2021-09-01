@@ -4,7 +4,7 @@
   position: relative;
   padding: 0.8rem $default-font-size;
   font-weight: bold;
-  line-height: 1;
+  line-height: 2;
   z-index: 1;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.6s;
 
@@ -13,7 +13,7 @@
     display: block;
     position: absolute;
     width: 0px;
-    height: 101%;
+    height: 100%;
     left: 0;
     bottom: 0;
     z-index: -1;
